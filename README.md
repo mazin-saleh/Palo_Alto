@@ -8,7 +8,7 @@ AI-powered community safety platform that aggregates local safety and digital se
 
 **Estimated Time Spent:** ~6 hours
 
-**Video Demo:** [YouTube Link] https://youtu.be/-Wky1xEzamM y the video is long
+**Video Demo:** [YouTube Link] https://youtu.be/-Wky1xEzamM 
 
 ---
 
